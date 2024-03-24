@@ -1,0 +1,16 @@
+-- Installing Tailwindcss --
+npm install -D tailwindcss
+npx tailwindcss init
+Docs: https://tailwindcss.com/docs/guides/create-react-app
+
+-- Installing Heroicons --
+npm install @heroicons/react
+Docs: https://github.com/tailwindlabs/heroicons
+
+-- Installing Fontawesome --
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/free-brands-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
+Docs: https://docs.fontawesome.com/web/use-with/react/
